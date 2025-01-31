@@ -2,7 +2,7 @@
 
 ### **📸 Gallery - Project Overview** 🚀  
 
-**🔹 Project Name:** Arisu Gallery  
+**🔹 Project Name:** My Gallery  
 **🔹 Tech Stack:** HTML & CSS (Pure Frontend)  
 **🔹 Files Used:** `MyGallery.html` & `style.css`  
 
@@ -24,7 +24,7 @@
 🔹 **Lazy Loading** – Load images only when they appear on the screen  
 🔹 **Additional Categories** – Add more filters (e.g., Nature, Portraits, etc.)  
 
-🚀 **Arisu Gallery** is a **clean, fast, and user-friendly** photo gallery designed using only **HTML & CSS** without JavaScript!🔥😎
+🚀 **My Gallery** is a **clean, fast, and user-friendly** photo gallery designed using only **HTML & CSS** without JavaScript!🔥😎
 
 Sample Pic of the outcome::
 ![Arisu Gallery - Google Chrome 1_31_2025 8_20_18 AM](https://github.com/user-attachments/assets/ae8a6bff-e7d4-4410-b23e-f618004774c5)
